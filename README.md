@@ -48,4 +48,5 @@ This project is licensed under the [MIT License] (LICENSE). You are free to use,
 <hr style="border:2px solid gray"> 
 
 <a href="url"><img src= "https://github.com/1013sophia/Data_Warehouse_Project/blob/7cfe02cbc4fcfd97d284b3eef12d0d1873f0519f/%E2%80%94Pngtree%E2%80%94vector%20three%20yellow%20stars_8950768.png" align="left" height="38" width="38" ></a> About Me
+
 Hi, I'm **Angelia Maharaj**, an IT professional building expertise in Data Engineering. This project demonstrates my ability to design and implement a data warehouse using industry-standard best practices, including scalable architecture, data modeling, and efficient data pipelines.
