@@ -35,6 +35,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 <a href="url"><img src="https://github.com/1013sophia/Data_Warehouse_Project/blob/71932e35ca88ccb430eec292f484c7e98cb3696f/167867.png" align="left" height="48" width="38" ></a> Project Requirements License
 
+
 This project is licensed under the [MIT License] (LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ##* About Me
