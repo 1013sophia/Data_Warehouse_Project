@@ -5,7 +5,7 @@ Welcome to the **Data Warehouse and Analytics Project** repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it
 highlights industry best practices in data engineering and analytics.
 
-<a href="url"><img src="https://github.com/1013sophia/Data_Warehouse_Project/blob/08d2932448653bda2ba2dedb4d91e730a38807d9/3194836-200.png" align="left" height="48" width="38" ></a> Project Requirements
+<a href="url"><img src="https://github.com/1013sophia/Data_Warehouse_Project/blob/08d2932448653bda2ba2dedb4d91e730a38807d9/3194836-200.png" align="left" height="38" width="38" ></a> Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -33,10 +33,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 
-<a href="url"><img src="https://github.com/1013sophia/Data_Warehouse_Project/blob/71932e35ca88ccb430eec292f484c7e98cb3696f/167867.png" align="left" height="48" width="38" ></a> Project Requirements License
+<a href="url"><img src="https://github.com/1013sophia/Data_Warehouse_Project/blob/71932e35ca88ccb430eec292f484c7e98cb3696f/167867.png" align="left" height="38" width="38" ></a> Project Requirements License
 
 
 This project is licensed under the [MIT License] (LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-<a href="https://github.com/1013sophia/Data_Warehouse_Project/blob/7cfe02cbc4fcfd97d284b3eef12d0d1873f0519f/%E2%80%94Pngtree%E2%80%94vector%20three%20yellow%20stars_8950768.png" align="left" height="48" width="38" ></a> Project Requirements About Me
+<a href="url"><img src= "https://github.com/1013sophia/Data_Warehouse_Project/blob/7cfe02cbc4fcfd97d284b3eef12d0d1873f0519f/%E2%80%94Pngtree%E2%80%94vector%20three%20yellow%20stars_8950768.png" align="left" height="38" width="38" ></a> Project Requirements About Me
 Hi, I'm **Angelia Maharaj**, an IT professional building expertise in Data Engineering. This project demonstrates my ability to design and implement a data warehouse using industry-standard best practices, including scalable architecture, data modeling, and efficient data pipelines.
