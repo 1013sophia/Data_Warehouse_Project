@@ -7,6 +7,8 @@ highlights industry best practices in data engineering and analytics.
 
 <a href="url"><img src="https://github.com/1013sophia/Data_Warehouse_Project/blob/08d2932448653bda2ba2dedb4d91e730a38807d9/3194836-200.png" align="left" height="38" width="38" ></a> Project Requirements
 
+<hr style="border:2px solid gray">
+
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
